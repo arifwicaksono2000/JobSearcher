@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\JobSearcher\JobSearcher\bin\Debug\JobSearcher.exe.config
+C:\Users\User\source\repos\JobSearcher\JobSearcher\bin\Debug\JobSearcher.exe
+C:\Users\User\source\repos\JobSearcher\JobSearcher\bin\Debug\JobSearcher.pdb
+C:\Users\User\source\repos\JobSearcher\JobSearcher\obj\Debug\JobSearcher.csprojAssemblyReference.cache
+C:\Users\User\source\repos\JobSearcher\JobSearcher\obj\Debug\JobSearcher.Form1.resources
+C:\Users\User\source\repos\JobSearcher\JobSearcher\obj\Debug\JobSearcher.Properties.Resources.resources
+C:\Users\User\source\repos\JobSearcher\JobSearcher\obj\Debug\JobSearcher.csproj.GenerateResource.cache
+C:\Users\User\source\repos\JobSearcher\JobSearcher\obj\Debug\JobSearcher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JobSearcher\JobSearcher\obj\Debug\JobSearcher.exe
+C:\Users\User\source\repos\JobSearcher\JobSearcher\obj\Debug\JobSearcher.pdb
+C:\Users\User\source\repos\JobSearcher\JobSearcher\obj\Debug\JobSearcher.Form2.resources
